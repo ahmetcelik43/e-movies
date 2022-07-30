@@ -110,6 +110,7 @@ if (process.env.NODE_ENV === 'production') {
           foo: 'bar'
         },
         headless: false,
+        args: ['--no-sandbox','--disable-setuid-sandbox'],
         renderAfterDocumentEvent: 'render',
         renderAfterTime: 5000,
       })
