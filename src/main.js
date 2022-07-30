@@ -6,6 +6,7 @@ import api from './store/index.js'
 Vue.use(VueRouter)
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min'
+import '../dist/css/app.css'
 import Home from './modules/home';
 import About from './modules/about';
 import VueMeta from 'vue-meta'

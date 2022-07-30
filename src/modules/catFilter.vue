@@ -6,7 +6,7 @@
     </div>
     <ul class="list-unstyled text-light">
       <li class="filtre d-block" v-for="cat in cats">
-        <a @click="catByFilter(cat.id)">&bull; {{ cat.name }}</a>
+        <a @click="catByFilter(cat.id)">&gt; {{ cat.name }}</a>
       </li>
     </ul>
   </div>

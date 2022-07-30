@@ -9,10 +9,11 @@
     <div class="row">
       <div class="col-lg-9 col-md-8 col-sm-12 ">
         <div class="filter-header mb-4 mt-3">
-          <span class="text-light  d-inline-block">Filmler</span>
-          <select @change="orderMovie" v-model="order" class="form-control-sm d-inline-block float-end bg-light order-inp"
+          <span class="text-light  d-inline-block">Anasayfa</span>
+          <select @change="orderMovie" v-model="order" class="form-control-sm d-inline-block float-end bg-dark order-inp"
                   style="width: 200px;margin-top: -11px"
           >
+            <option value="0" selected disabled>Sıralama Uygulayın</option>
             <option value="EnYeni">Çıkış Tarihi:En Yeni</option>
             <option value="EnEski">Çıkış Tarihi:En Eski</option>
           </select>
@@ -40,7 +41,7 @@
           <span>Filtreler</span>
         </div>
         <div class="card-body">
-          <button class="w-100 btn btn-success btn-sm mb-3" @click="catByFilter(0)">Tümü</button>
+          <button class="w-100 btn btn-success btn-sm mb-3" @click="catByFilter(0)">Tümünü Geri Yükle</button>
           <cat-filter :cats="cats" @callParentFn="filter"></cat-filter>
 
           <date-filter @callParentFn="filter"></date-filter>
@@ -80,7 +81,7 @@ export default {
   },
   data () {
     return {
-      order:null,
+      order:0,
       labels: {
         first: 'İleri',
         last: 'Son',

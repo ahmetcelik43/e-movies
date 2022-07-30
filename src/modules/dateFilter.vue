@@ -17,13 +17,13 @@
     </date-range-picker>
     <ul class="list-unstyled text-light">
       <li class="filtre d-block">
-        <a @click="catByDateFilter('oneMonth')">&bull;Son Bir Ay İçerisindeki</a>
+        <a @click="catByDateFilter('oneMonth')">&gt; Son Bir Ay İçerisindeki</a>
       </li>
       <li>
-        <a @click="catByDateFilter('oneThree')">&bull;Son Üç Ay İçerisindeki</a>
+        <a @click="catByDateFilter('oneThree')">&gt; Son Üç Ay İçerisindeki</a>
       </li>
       <li>
-        <a @click="catByDateFilter('oneYear')">&bull;Son Bir Yıl İçerisindeki</a>
+        <a @click="catByDateFilter('oneYear')">&gt; Son Bir Yıl İçerisindeki</a>
       </li>
     </ul>
   </div>

@@ -6,7 +6,7 @@
     "date": "2022-07-25 00:00:00",
     "type": "Tr Dublay",
     "cat": 1,
-    "img": "assets/jurassic.jpg",
+    "img": "assets/jur.webp",
     "id": 1
   },
   {
@@ -16,7 +16,7 @@
     "date": "2022-05-03 00:00:00",
     "type": "Altyazılı",
     "cat": 1,
-    "img": "assets/american.jpg",
+    "img": "assets/american2.jpg",
     "id": 2
   },
   {
@@ -26,7 +26,7 @@
     "date": "2021-05-03 00:00:00",
     "type": "Altyazılı",
     "cat": 1,
-    "img": "assets/spider.jpg",
+    "img": "assets/spider3.jpg",
     "id": 3
   },
   {
@@ -38,5 +38,15 @@
     "cat": 1,
     "img": "assets/spider2.jpg",
     "id": 3
+  },
+  {
+    "name": "Hava Saldırısı - Air Strike",
+    "desc": "Film yaşanan bir takım tarihi olayların uyarlanması olarak karşımıza çıkmaktadır. Sene 1930’lu yılların sonu ve 1940’lı yılların başını kapsamaktadır. Japonlar ve Çinliler birbirlerine karşı savaş halindedirler. İki tarafta bütün güçleri ile birbirlerine saldırmaktadırlar.",
+    "rating": "5",
+    "date": "2018-07-01 00:00:00",
+    "type": "TR Dublaj",
+    "cat": 3,
+    "img": "assets/saldırı.jpg",
+    "id": 4
   }
 ]

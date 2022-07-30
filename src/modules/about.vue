@@ -2,8 +2,8 @@
   <div class="container-fluid">
     <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
       <ol class="breadcrumb">
-        <li class="breadcrumb-item text-white"><router-link :to="{name:'home'}"><h2>Home</h2></router-link></li>
-        <li class="breadcrumb-item active text-white" aria-current="page"><a><h1>About me</h1></a></li>
+        <li class="breadcrumb-item text-white"><router-link :to="{name:'home'}"><h2>Anasayfa</h2></router-link></li>
+        <li class="breadcrumb-item active text-white" aria-current="page"><a><h1>Hakkımda</h1></a></li>
       </ol>
     </nav>
 

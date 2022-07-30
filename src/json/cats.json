@@ -1,16 +1,12 @@
 [{
   "id": 1,
-  "name": "Adventure movie"
+  "name": "Macera filmleri"
 },
   {
     "id": 2,
-    "name": "Documentary movie"
+    "name": "Belgesel filmleri"
   },
   {
     "id": 3,
-    "name": "Action movie"
-  },
-  {
-    "id": 4,
-    "name": "Horror movie"
+    "name": "Aksiyon Filmleri"
   }]
