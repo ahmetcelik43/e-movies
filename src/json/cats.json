@@ -1,0 +1,16 @@
+[{
+  "id": 1,
+  "name": "Adventure movie"
+},
+  {
+    "id": 2,
+    "name": "Documentary movie"
+  },
+  {
+    "id": 3,
+    "name": "Action movie"
+  },
+  {
+    "id": 4,
+    "name": "Horror movie"
+  }]

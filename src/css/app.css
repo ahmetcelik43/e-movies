@@ -1,0 +1,107 @@
+#app{
+    margin:0 !important;
+}
+
+*{
+    color:inherit !important;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    cursor: pointer;
+}
+/*.navbar .nav-link{*/
+/*    color:black !important;*/
+/*}*/
+html,body{
+    background-color: #282828 !important;
+    overflow-x: hidden;
+    height: 100%;
+}
+.dropdown-menu{
+    overflow-y: hidden;
+}
+.dropdown-menu li{
+    width: 100% !important;
+}
+.navbar li{
+    width: 100% !important;
+}
+li{
+    margin: 0;
+    width: unset !important;
+}
+h1,h2,h5,.breadcrumb li a{
+    font-size: 16px;
+    white-space: nowrap;
+    margin: 0;
+}
+@media only screen and (max-width: 992px) {
+    .navbar .navbar-nav{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 993px) {
+    .navbar .navbar-nav{
+        width: 200px;
+    }
+}
+.dropdown, .dropdown-menu{
+    z-index:2 !important;
+}
+.navbar {
+    position: static;
+    z-index: 1 !important;
+}
+.movies .card{
+    background-color: #282828 !important;
+    border:1px solid lightgrey !important;
+}
+
+.movies .card-header{
+    border-bottom: 1px solid lightgrey !important;
+}
+
+.drp-buttons{
+    float: left;
+}
+.vue-daterange-picker{
+    width: 100%;
+
+}
+.daterangepicker{
+    min-width: unset !important;
+}
+.ranges{
+    display: none;
+}
+.show{
+    display: block !important;
+}
+.vld-icon {
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+
+}
+.filter-header{
+    border-bottom: 1px solid white !important;
+    margin-bottom: 10px;
+}
+.reportrange-text,.order-inp{
+    background-color: #282828 !important;
+    color:white !important;
+}
+.pagin a{
+    border-radius: unset !important;
+    background-color: #282828 !important;
+    color:white !important;
+}
+.navbar{
+    background-color: #282828 !important;
+    border-bottom: 1px solid white;
+}
+.link-active{
+    color:lightblue !important;
+}

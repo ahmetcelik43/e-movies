@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jurassic World Hakimiyet - Jurassic World: Dominion",
+    "desc": "Jurassic World Hâkimiyet filmi, 2015 yılında çıkan Jurassic World serisinin üçüncü ve son filmidir. Film ülkemizde 10 Haziran 2022 tarihinde seyirciyle buluşurken filmin ekran süresi 2 saat 26 dakika olarak karşımıza çıkıyor. Film IMDB listelerine 6.0’lık puanı ile giriş yapmıştır.",
+    "rating": "3.5",
+    "date": "2022-07-25 00:00:00",
+    "type": "Tr Dublay",
+    "cat": 1,
+    "img": "assets/jurassic.jpg",
+    "id": 1
+  },
+  {
+    "name": "American Underdog",
+    "desc": "Super Bowl şampiyonu, Super Bowl MVP, NFL en değerli oyuncu ödülü, Walter Payton NFL yılın adamı, First Team All Pro, Pro Bowl, NFL taç down ve pas lideri, NFL yüzde tamamlama lideri, NFL yard geçişi lideri, Bert Bell ödülü, Bart Star ödülü ve Arizon Cardinals Onur ödülü alan ve 2017 yılında da Pro Football Hall of Fame’e adını yazdırmayı başaran Kurtis Eugene Warner, NFL’in şu ana dek sahip olduğu en değerli ve en başarılı oyun kurucularından birisidir.",
+    "rating": "4",
+    "date": "2022-05-03 00:00:00",
+    "type": "Altyazılı",
+    "cat": 1,
+    "img": "assets/american.jpg",
+    "id": 2
+  },
+  {
+    "name": "Örümcek-Adam: Eve Dönüş Yok - Spider-Man: No Way Home",
+    "desc": "Örümcek-Adam: Eve Dönüş Yok - Spider-Man: No Way Home izle. Örümcek-Adam: Eve Dönüş Yok Full hd 1080p kalitede türkçe dublaj ve altyazılı hd izle. Serinin bu üçlemesinde başrolümüzün kendini deşifre etmesini konu ediniyor.",
+    "rating": "5",
+    "date": "2021-05-03 00:00:00",
+    "type": "Altyazılı",
+    "cat": 1,
+    "img": "assets/spider.jpg",
+    "id": 3
+  },
+  {
+    "name": "Örümcek-Adam 2: Eve Dönüş Yok - Spider-Man: No Way Home",
+    "desc": "Örümcek-Adam: Eve Dönüş Yok - Spider-Man: No Way Home izle. Örümcek-Adam: Eve Dönüş Yok Full hd 1080p kalitede türkçe dublaj ve altyazılı hd izle. Serinin bu üçlemesinde başrolümüzün kendini deşifre etmesini konu ediniyor.",
+    "rating": "5",
+    "date": "2021-05-05 00:00:00",
+    "type": "Altyazılı",
+    "cat": 1,
+    "img": "assets/spider2.jpg",
+    "id": 3
+  }
+]
